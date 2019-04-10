@@ -1,2 +1,2 @@
 # 一个vue组件库
-npm install carry-wsj
+使用：npm install carry-wsj
